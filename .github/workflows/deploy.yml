@@ -37,6 +37,8 @@ jobs:
         run: npm i
       - name: Build
         run: npm run build
+      - name: Debug info
+        run: ls -lart
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
