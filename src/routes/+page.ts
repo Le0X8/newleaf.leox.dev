@@ -1,4 +1,5 @@
 export async function load() {
+  // @ts-expect-error ts flags this as not found for no reason
 	const content = await import('/src/pages/index.md');
 	const pages = import.meta.glob('/src/pages/*.md', { eager: true }) as Record<
 		string,

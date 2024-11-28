@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Welcome to SvelteKit
+# Leo's ACNL Website
 
-Visit [kit.svelte.dev](https://kit.svelte.dev) to read the documentation
+Hi!
 
-## Template
+I created this website to share lots of Animal Crossing: New Leaf related stuff with you. I hope you enjoy it!
 
-Visit [@Le0X8/sveltekit-template](https://github.com/Le0X8/sveltekit-template) to read the template documentation
+I will create a custom savegame editor soon. Stay tuned!

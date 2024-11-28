@@ -1,5 +1,5 @@
 {
-	"name": "Your Website Name",
+	"name": "Leo's ACNL Website",
 	"nav": [
 		{
 			"title": "Home",
@@ -12,9 +12,9 @@
 	],
 	"footer": {
 		"copyright": {
-			"owner": "Your Name",
+			"owner": "Leonard Lesinski",
 			"since": 2024,
-			"url": "https://example.com/"
+			"url": "https://lesinski.cc/"
 		}
 	}
 }

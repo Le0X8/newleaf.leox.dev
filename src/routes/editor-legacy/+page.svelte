@@ -1,1 +1,1 @@
-<iframe src="/acnl-editor/index.html" class="fixed top-12 block h-[calc(100vh-3rem)] w-full left-0" />
+<iframe src="/acnl-editor/index.html" class="absolute top-12 block h-[calc(100vh-3rem)] w-full left-0 z-0" title="editor" />
