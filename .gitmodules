@@ -1,3 +1,6 @@
 [submodule "static/acnl-editor"]
 	path = static/acnl-editor
 	url = https://github.com/marcrobledo/acnl-editor.git
+[submodule "modules/acnl-editor"]
+	path = modules/acnl-editor
+	url = https://github.com/Le0X8/acnl-editor.git
