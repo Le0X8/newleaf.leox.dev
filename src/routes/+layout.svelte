@@ -14,7 +14,7 @@
 <nav class="fixed left-0 top-0 flex h-12 w-full bg-lime-800 text-white z-50">
 	<a href="/" class="flex">
 		<header class="flex w-fit items-center gap-2 px-2 py-2">
-			<img src="/favicon.png" alt="{app.name} logo" class="size-8" />
+			<img src="/favicon.svg" alt="{app.name} logo" class="size-8" />
 			<h1 class="text-xl font-medium">{app.name}</h1>
 		</header>
 	</a>

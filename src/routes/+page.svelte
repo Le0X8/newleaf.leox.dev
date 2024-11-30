@@ -19,6 +19,12 @@
 
 	const featured = [
 		{
+			title: 'Savegame Editor',
+			description: 'My own editor! Work in progress.',
+			url: '/editor',
+			image: '/new-editor/favicon.svg'
+		},
+		{
 			title: 'Save Editor (legacy)',
 			description: 'by Marc Robledo',
 			url: '/editor-legacy',
