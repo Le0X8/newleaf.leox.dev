@@ -27,7 +27,7 @@
 		{
 			title: 'Pattern Tool',
 			description: 'by Thulinma',
-			url: '/pattern-editor',
+			url: '/design-editor',
 			image: 'https://cdn.jsdelivr.net/gh/Thulinma/ACNLPatternTool@master/src/assets/icons/banner.min.svg'
 		}
 	];

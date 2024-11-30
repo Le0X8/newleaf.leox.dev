@@ -1,9 +1,12 @@
 [submodule "static/acnl-editor"]
 	path = static/acnl-editor
 	url = https://github.com/marcrobledo/acnl-editor.git
+	ignore = dirty
 [submodule "modules/acnl-editor"]
 	path = modules/acnl-editor
 	url = https://github.com/Le0X8/acnl-editor.git
+	ignore = dirty
 [submodule "modules/ACNLPatternTool"]
 	path = modules/ACNLPatternTool
 	url = https://github.com/Thulinma/ACNLPatternTool.git
+	ignore = dirty
